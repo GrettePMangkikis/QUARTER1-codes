@@ -1,0 +1,6 @@
+radius = float(imput("Please enter you cirles radius:"))
+
+diameter = radius * 2
+area = diameter * 3.14
+roundsum = round(area, 10)
+print("The area of your circle is:", roundsum)
